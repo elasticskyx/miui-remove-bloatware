@@ -12,14 +12,14 @@ To protect my privacy, save space, optimize battery life and improve the user ex
 
 
 ## Instructions
-1. Enable `USB Debugging` on the MIUI Settings
+1. Enable `USB Debugging` on the MIUI Android device in the MIUI Settings
    
-3. Install the Windows tools
+3. Install these Windows tools
    - Download OpenJDK and install
    - Download Universal ADB Drivers and install
    - Save XiaomiADBFastbootTools.jar to Downloads folder
      
-4. Run the `XiaomiADBFastbootTools.jar` using:
+4. Run the `XiaomiADBFastbootTools.jar` using command line:
    > java -jar XiaomiADBFastbootTools.jar
 
 
