@@ -4,7 +4,7 @@ To protect my privacy, save space, optimize battery life and improve the user ex
 ## Tools to be downloaded
 - [Open JDK](https://adoptopenjdk.net/)
 - [Universal ADB Drivers](https://xiaomifirmware.com/downloads/download-adb-installer-v1-4-3-drivers-adb-fastboot-tools/)
-- [XiaomiADBFastbootTools.jar]()
+- [XiaomiADBFastbootTools.jar](tools/XiaomiADBFastbootTools.jar)
 
 
 ## Videos for extra help
@@ -30,4 +30,16 @@ The Xiaomi ADB/Fastboot tool can be used to uninstall, reinstall, deactivate, an
 
 ![Window](images/XiaomiADBFastbootTools-1.png)
 
+### List of Applications that can be uninstalled
+**[Updated List](https://rootmygalaxy.net/xiaomi-bloatware-list-remove-safely-from-miui/)**
 
+
+## FAQs (Frequently Asked Questions)
+
+__Q. Is it Safe to Uninstall Apps from my device running MIUI?__
+
+*A. While the answer varies depending on the application being uninstalled, most apps are safe to remove. However, programmes that offer basic functionality, such as the Dialer application, MIUI framework, and others, should not be tampered with.*
+
+__Q. Do Uninstalled System Apps Affect OTA Updates?__
+
+*A. No, deleting apps from your smartphone has no effect on your smartphone’s OTA software upgrades.*
