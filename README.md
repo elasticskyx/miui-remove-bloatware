@@ -31,8 +31,8 @@ The Xiaomi ADB/Fastboot tool can be used to uninstall, reinstall, deactivate, an
 ![Window](images/XiaomiADBFastbootTools-1.png)
 
 ### List of Applications that can be uninstalled
-**[Updated List](https://rootmygalaxy.net/xiaomi-bloatware-list-remove-safely-from-miui/)**
-
+<!--**[Updated List](https://rootmygalaxy.net/xiaomi-bloatware-list-remove-safely-from-miui/)**-->
+**[New Link](https://gist.github.com/mcxiaoke/ade05718f590bcd574b807c4706a00b1)**
 
 ## FAQs (Frequently Asked Questions)
 
